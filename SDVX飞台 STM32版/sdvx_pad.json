@@ -1,0 +1,58 @@
+{
+  "name": "SDVX Pad",
+  "vendorProductId": 4276969568,
+  "macros": [
+    "",
+    "\u000e",
+    "\u000f",
+    "3",
+    "4",
+    "(",
+    "",
+    "",
+    "á",
+    "\u001d",
+    "\u001b",
+    "\u0006",
+    "\u0019",
+    "\u0005",
+    "\u0011",
+    "\u0010"
+  ],
+  "layers": [
+    ["TO(1)", "KC_M", "KC_2", "KC_A", "KC_B", "KC_C", "KC_D", "KC_Z", "KC_X"],
+    [
+      "KC_NO",
+      "RGB_MOD",
+      "RGB_TOG",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO",
+      "KC_NO"
+    ],
+    [
+      "KC_R",
+      "KC_T",
+      "KC_Y",
+      "KC_U",
+      "KC_I",
+      "KC_O",
+      "KC_P",
+      "KC_LBRC",
+      "KC_RBRC"
+    ],
+    [
+      "KC_BSLS",
+      "LT(1,KC_CAPS)",
+      "KC_A",
+      "KC_S",
+      "KC_D",
+      "KC_F",
+      "KC_G",
+      "KC_H",
+      "KC_J"
+    ]
+  ]
+}
